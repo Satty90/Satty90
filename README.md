@@ -1,4 +1,4 @@
--# Hi there 👋, I'm Mahdi
+-# Hi there 👋, I'm Mahdi, a Data Engineer living in the UK
 
 ### 🚀 Analystics engineering | 💡 Tech Enthusiast | 🎨 Creative Coder
 
